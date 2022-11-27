@@ -10,6 +10,7 @@
     - Média acima de 7, passou de semestre;
 */
 
+
 /*
     2) O IMC – Indice de Massa Corporal é um critério da Organização Mundial de Saúde para dar uma indicação sobre a condição de peso de uma pessoa adulta. 
 
@@ -36,3 +37,5 @@
     - Em duas vezes, preço normal de etiqueta sem juros;
     - Acima de duas vezes, preço normal de etiqueta mais juros de 10%;
 */
+
+
